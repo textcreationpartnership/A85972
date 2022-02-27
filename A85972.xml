@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain discovery how the enemy and popish faction in the north upholds their interest now under the power and authority of the Parliament and Army, set forth in a letter from a northren [sic] souldier. Published by Iohn Musgrave, an eminent sufferer under the Earl of Strafford, the Prelats, the common enemy, and the commissioners of array in Cumberland.</title>
+            <author>T. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85972</idno>
+            <idno type="STC">Wing G65</idno>
+            <idno type="STC">Thomason E560_26</idno>
+            <idno type="STC">ESTC R205992</idno>
+            <idno type="EEBO-CITATION">99865204</idno>
+            <idno type="PROQUEST">99865204</idno>
+            <idno type="VID">165205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E560[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain discovery how the enemy and popish faction in the north upholds their interest now under the power and authority of the Parliament and Army, set forth in a letter from a northren [sic] souldier. Published by Iohn Musgrave, an eminent sufferer under the Earl of Strafford, the Prelats, the common enemy, and the commissioners of array in Cumberland.</title>
+                  <author>T. G.</author>
+                  <author>Murgrave,  John, fl. 1654.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T. G.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commissions of array --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165205:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>A PLAIN DISCOVERY HOW THE Enemy and Popiſh Faction in the North upholds their Intereſt now under the Power and Authority of the <hi>Parliament</hi> and <hi>Army,</hi> Set forth in a Letter from a Northren <hi>SO<g ref="char:V">Ʋ</g>LDIER.</hi>
+            </p>
+            <p>Publiſhed by <hi>Iohn Muſgrave,</hi> an emi<g ref="char:EOLhyphen"/>nent ſufferer under the Earl of <hi>Strafford,</hi> the Prelats, the Common Enemy, and the Commiſſioners of Array in <hi>CVMBERLAND.</hi>
+            </p>
+            <p>
+               <q>Pulcrum eſt pro patria mori.</q>
+            </p>
+            <p>
+               <date>
+                  <add>June 21</add>
+               </date>Printed in the Year, 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:165205:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ot longer ſince then yeſterday, being in company with Colonel <hi>Briggs,</hi> diſcourſing of the affairs and ſtate of our Countrey, he much complained of the Malignan<g ref="char:EOLhyphen"/>cie and averſneſs of the Committees, and Juſtices of <hi>Cumberland</hi> and <hi>Weſtmerland,</hi> and how, beſides him<g ref="char:EOLhyphen"/>ſelf, there was not a Juſtice of Peace in <hi>Weſtmerland,</hi> but ſuch as acted for, and carried on the enemies deſigns, the new Juſtices there aſ<g ref="char:EOLhyphen"/>ſigned, refuſing to take the Oath of a Juſtice of Peace, and that ſome of the Committee of <hi>Cumberland,</hi> who joyned with, and largely con<g ref="char:EOLhyphen"/>tributed to the enemy in the laſt war, are the leading and powerful men in that Committee, and how Mr. <hi>Howard</hi> of <hi>Naworth</hi> raiſed a troope, and acted for <hi>Hambleton,</hi> yet by the connivance of that Committee he ſtill keeps up that troope, which doings of the Com<g ref="char:EOLhyphen"/>mittees there, and their indulgence of Delinquents, and Malignants, made the Colonel, as he ſaid, weary and diſheartened longer to con<g ref="char:EOLhyphen"/>tinue in thoſe quarters, all which correſponding with the following letter from my Northen friend, and now a ſouldier there, not knowing otherwiſe how to communicate the ſame to the Parlia<g ref="char:EOLhyphen"/>ment and Councel of State for the reaſons in my Anſwer to that letter, I have made bold to commit the ſame to the Preſs, not doubt<g ref="char:EOLhyphen"/>ing a favourable acceptance thereof, having no other end or aime, then the good and peace of my Countrey, under the preſent Autho<g ref="char:EOLhyphen"/>thorities, for which, and their proſperity, I ſhall ever pray, and do remain,</p>
+            <closer>
+               <dateline>London, <date>16<hi rend="sup">th</hi>. 6<hi rend="sup">th</hi>. Moneth called June, 1649.</date>
+               </dateline>
+               <signed>Thy friend as thou loves this <hi>Commonwealth, Jo. Muſgrave.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:165205:2"/>
+            <!-- PDF PAGE 110 -->
+            <opener>
+               <salute>Anccient Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Eeting with ſtrange Occurrances in the Journal, called <hi>The Perfect Occurrences,</hi> in a Letter from the North, I being that Countrey man, and well knowing the matter whereon that Letter treats, have taken upon me to write ſomething unto you in behalf of that great ſervice done upon our borders, and in vindication of Capt. <hi>Craken<g ref="char:EOLhyphen"/>thorpe,</hi> who is aimed at for to be aſperſed for not receiving <hi>Arthur Foſter</hi> for Leiutenant; In the Letter there is a high publick ſpirit put upon Mr. <hi>Howard</hi> of <hi>Naworth,</hi> who, as is ſaid, ſpared no paines for his Countries ſervice, the way is meant by his Troope, in ſuppreſſing Moſs-Troopers; the end why he is ſo ſet forth, is that ſome way may be found out to put ſome Horſe under his Command. I ſee if the publick ſpirits prevail, we wil all turn publick ſpirited, <hi>Latet anguis in herba;</hi> 'tis true that Mr. <hi>Howard</hi> hath had a troope of horſe all this laſt Winter under his Command, which was thus ſet on foot: Sir <hi>Marmaduke Langdale,</hi> and the <hi>Scots</hi> Army being in the North the laſt year, moſt of the Gentry joyned with them, amongſt whom Mr. <hi>Ho<g ref="char:EOLhyphen"/>ward</hi> was not backward, for in <hi>Gilſland</hi> he called three Muſters, <hi>viz.</hi> On Thurſday the 10<hi rend="sup">th</hi>. of <hi>Auguſt,</hi> Munday the 14<hi rend="sup">th</hi>. and Wedneſday the 16<hi rend="sup">th</hi>. of <hi>Auguſt,</hi> 1648. the day before <hi>Preſton</hi> battell, ſo raiſed one troop for the Prince his ſervice, whom he gave out was to meete at <hi>Barwick,</hi> but having news that they had loſt the battell at <hi>Preſton,</hi> Mr. <hi>Howard</hi> being at a loſs himſelf, thought it beſt to con<g ref="char:EOLhyphen"/>vert his troope to the taking of border theeves, called <hi>Moſs Troopers,</hi> and though he did little ſervice, yet found he it a good gloſs for his actions, and it took ſo well, that when we returned, and God had ſubdued the Enemy, he got the favour as to continue his troope, and having paſt well thus far, he looks a little further to make <hi>Arthur Foſter,</hi> who ſhould have been his Lieutenant, Lieutenant to Capt. <hi>Crakenthrope,</hi> and ſo make two troopes; but the Captaine ſoon per<g ref="char:EOLhyphen"/>ceiving the myſtery, was unwilling to entertain <hi>Foſter</hi> for Lieutenant, giving theſe reaſons, for that the ſaid <hi>Foſter</hi> was a Capt. for the King in the firſt war againſt the Parliament: ſecondly, that he was in arms in the Gariſon of <hi>Carlile,</hi> in the ſecond war againſt the Parliament,
+<pb n="4" facs="tcp:165205:3"/>
+               <!-- PDF PAGE 111 -->thirdly, that the ſaid <hi>Foſter</hi> had never ſerved the Parliament: fourthly, that he had been arraigned for murder, but it being pretended, that he was a fit man for to ſerve againſt <hi>Moſs Troopers,</hi> he anſwered, that <hi>Foſter</hi> lived amongſt that pack, and who ſo knows that place, knows that none living there durſt oppoſe the <hi>Moſs Troopers,</hi> that was any way notable, and that he was Sir <hi>Rich. Grahams</hi> man &amp; muſt do nei<g ref="char:EOLhyphen"/>ther more nor leſs then he will have him; now you know all the <hi>Moſs Troopers,</hi> are either Sir <hi>Rich. Grahams,</hi> Sir <hi>Edward Muſgraves,</hi> or Mr. <hi>Howards</hi> Tenents, and our Northerne and <hi>Scots</hi> Lords jump in one policie to make to themſelves great revenews of barren grounds, the <hi>Moſs Troopers</hi> pay to Sir <hi>Richard Graham</hi> one thouſend pound <hi>per annum,</hi> and above, and to Mr <hi>Howard</hi> no leſs, and to Sir <hi>Edward Muſgrave</hi> a good revenew: now the Inhabitants of barren grounds to pay ſuch rents, what they cannot by their labours, they make up by <hi>Moſs trooping;</hi> under this conſideration it hath been anciently thought fit, that the Landlords in thoſe parts ſhould make good the Tenants theft to the owner and certainly if this were put in practiſe, we ſhould nothear much of <hi>Moſs troopers;</hi> for thus it is carried, a young theef be<g ref="char:EOLhyphen"/>ing entred to a tenement, for which he is to pay fine, may ſteal without controul but his theft is Regiſtred by his Landlord, and if he fall un<g ref="char:EOLhyphen"/>der his diſpleaſure, he is apprehended, and hanged at his Lords will, or if he hath been a theef in his youth, and grown rich by his craft, though for twenty years he ſtole not then will his Landlord pick a quarrell at him, and for old done deeds hang him, and take his lands and goods; to take ſuch maner of theeves was <hi>Arthur Foſter</hi> imploy<g ref="char:EOLhyphen"/>ed, but not to meddle further, without his Lords Order: one of Capt. <hi>Crakanthorpes</hi> troop being upon that ſervice with Mr. <hi>Howard,</hi> asked him what they were going to do, Mr. <hi>Howard</hi> anſwered, to take <hi>Moſs troopers,</hi> well ſaid the trooper, there is one of the greateſt now riding by you (which was <hi>Sandy Kinman</hi>) upon which Mr. <hi>Howard</hi> called <hi>Kinman,</hi> and told him what the trooper ſaid, who anſwered, away Sir, away, misken him: In that its ſaid Capt. <hi>Crakanthrops</hi> troop marcht unto <hi>Scotland,</hi> where he had, &amp;c. this is altogeter falſe, or that they took any <hi>Moſs</hi> troopers by way of defeat, I love no vaine boaſting, I am of that troop, neither did ever <hi>Foſter</hi> take any but a few poor ſneakes out of their own houſes, ſuch as I tell you have fallen under their Landlords diſpleaſure, one of which told <hi>Foſter</hi> it was not long ſince he rid himſelf, and when the ſouldiers would have taken Arms as they found them in the houſes of the <hi>Moſs troopers</hi> and their friends, <hi>Foſter</hi> would not ſuffer them; but Captain <hi>Crakanthrops</hi>
+               <pb n="5" facs="tcp:165205:3"/>
+               <!-- PDF PAGE 111 -->hath diſplaced <hi>Foſter,</hi> and ſo that ſervice ſo well begun wil fal. Truly Sir that Capt. is in the eye of a company of Delinquents, and Semy-Parliamentiers, who pretend for the Parliament and Countrey, but intend the ruine of both, had they but ſuch as Mr. <hi>Howard,</hi> or o<g ref="char:EOLhyphen"/>ther of their creatures in places and power, and the Captaine outed, all were their own; that Captaine hath ſuffered more for the Parlia<g ref="char:EOLhyphen"/>ment then any there, and ſtood cloſer to the Countrey then they all, he was impriſoned neer three whole years, had his priſon changed ten ſeveral times, laid in irons, coupled with now ſome of his troopers for the Parliament, and the more to torment him, put amongſt whores, and murtherers of their own children; he and o<g ref="char:EOLhyphen"/>ther fourteen impriſoned within the compaſs of fourteen foot long, and nine broad, and with his own hands he was forced to caſt out his own excrements for many dayes together, yet was not theſe, nor many more cruelties able to alter the ſaid Captains affection to the <hi>Parliament:</hi> but while thus in priſon, he weekly gave Intelligence to the State of <hi>Scotland,</hi> of the enemies doings which coſt him no ſmall moneys to obtain, deviſed a ſecret Character, which he directed you then to reade and write, by which were imparted (as you know) matters of high concernment for the good of both States; they aſperſe him that he is no ſouldier, becauſe forſooth thus kept in the firſt war, which is ſo falſe, that all that well know him know the contrary, he was a Captaine before theſe wars began; and though not in the firſt, yet in the ſecond war ferved, where he behaved himſelf ſo, that his ad<g ref="char:EOLhyphen"/>verſaries, amongſt whom he marched could never lay any aſperſion upon him, but on the contrary have in that way highly commended him, he never ſhewing the leaſt fear or diſorder, but did ſo order his troope, that by his means and councell, God made him inſtrumental to ſave the reſt, as at ſeverall places I could name, and for his deport<g ref="char:EOLhyphen"/>ment in the Countrey, ſet aſide ſome of the Committee that are Malignants, and have acted in the Commiſſion of Array, there is not a man hath that impudency as to ſpeak evil of him at this day; for the eaſe of the Country he hath deviſed a way to take off free<g ref="char:EOLhyphen"/>quarter for his troop, borrowing of the Committee ſo much money as doth only give the ſouldier 18. pence a day, which he is ingaged to repay to a penny what he hath borrowed out of his pay, when he ſhall receive the ſame from the Parliament, and doth at preſent quarter his Troop, the Horſe altogether, over which he ſets
+<pb n="6" facs="tcp:165205:4"/>
+               <!-- PDF PAGE 112 -->a guard, and the men within a mile or two of their horſe; that upon any occaſion, are able within two hours, to march upon any Order, the ground partly his own, and others taken for that purpoſe by him; and doth with the money borrowed, maintain twenty poor Fa<g ref="char:EOLhyphen"/>milies, not able to ſubſiſt of themſelves. Truly that Captain doth en<g ref="char:EOLhyphen"/>devor himſelf, &amp; makes it his ſtudy, to do good to all, nouriſhing the Lords people, having a Congregation of godly men in his Troop; ſuch as fear the Lord, will not ſuffer them to do violence to ary, but makes them content with their wages, nay, without wages; yet notwithſtanding all this, and that none is able to lay any thing to his charge: And though the Lord General at the inſtance of that honor<g ref="char:EOLhyphen"/>able perſon, the Lieutenant General, gave him a Commiſſion to be in the eſtabliſhment of the Army, yet by the malignancy of ſome of the Committee, as Sir <hi>Wilfrid Lawſon,</hi> who hath acted in the Commiſſion of Array, entred into aſſociation againſt the Parlia<g ref="char:EOLhyphen"/>ment, ſworn the oath to the Earl of <hi>Newcaſtle,</hi> raiſed forces for the King, all which, and much more as fully be proved againſt him; by whoſe means, the ſaid Captain is ſought to be reduced, and an order obtained to refer it to him, and ſome other of his ſtamp to make choice of another; but I fear not, but my Lord General, the Lieu<g ref="char:EOLhyphen"/>tenant General, and the honorable Sir <hi>Arthur Haſlerig,</hi> will pre<g ref="char:EOLhyphen"/>vent the deſignes of theſe men, and not ſuffer a poor Countrey to be ſpoiled by ſuch as are ſtrangers; for its not to be thought that that Countrey having but one man that hath any eſtate there, who hath ſerved ſo faithfully, as the ſaid Captain, that he ſhall be re<g ref="char:EOLhyphen"/>duced without any charge, and ſuch as are rather Souldiers of For<g ref="char:EOLhyphen"/>tune, and ſtrangers, have command. Its fit, I ſay, for the Moſs Troopers ſervice, which for want of <hi>Foſter,</hi> its ſaid will fall. The ſaid Captain hath a Lieutenant, one Lieutenant <hi>Dowſon,</hi> who was known to be a man of ſuch parts, and ſo well experienced in that way, that all that know that Countrey know, that there is not a fitter Souldier in all <hi>England</hi> for that ſervice; a man of much approved gallantry, and more worth then ten <hi>Foſters.</hi> And I dare ſay, if the Captain had but order to ſubdue that pack of theeves, that it would ſoon be done; which ſervice, he is ſo far from letting fall, as that he intends to make ſuit, that he may do ſervice againſt the Moſs-Troopers.</p>
+            <p>Thus loving friend, you ſee, as was our ſufferings of old, by the
+<pb n="7" facs="tcp:165205:4"/>
+               <!-- PDF PAGE 112 -->enemies of God, and the Countrey; even ſo it is at this day, onely a new way, and a new device ſet on foot to ruine good men; for all the good, and faithful men in theſe parts, are ſtruck at in Captain <hi>Crakenthorp;</hi> but the Lord that hath carried us out in many trou<g ref="char:EOLhyphen"/>bles, will not leave us now; into whoſe hands we render up our ſelves, and reſt upon him.</p>
+            <closer>
+               <signed>Your ancient, and loving Friend, <hi>T. G.</hi>
+               </signed>
+               <dateline>Catterlen. <date>7. of June.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>VVE think it fit that 205 <hi>l.</hi> be collected through this County in general, for one moneth; which the High Conſtables are to pay over to Captain <hi>Crakenthorp,</hi> he having engaged to repay the ſame to us for the County, upon the receipt of the ſaid money.</p>
+               <closer>
+                  <dateline>Given under our hands at <hi>Penrith,</hi> 
+                     <date>this 25. of <hi>May.</hi> 1649.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>John Barwis, <hi>Vic. Com.</hi>
+                        </item>
+                        <item>Wilfrid Lawſon.</item>
+                        <item>Thomas Chomley.</item>
+                        <item>Miles Hatton.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:165205:5"/>
+            <!-- PDF PAGE 113 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce I received this Letter, Captain <hi>Crakenthorp</hi> hath been here at <hi>London,</hi> and made the difference between him, and Major <hi>Sk<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>if,</hi> known to the General, and Lieutenant General, who both of them were ſo free from partiality, or wronging the Gentleman, as upon right underſtanding the caſe, his Excellency writ preſently to Sir <hi>Arthur Haſlerig,</hi> not to ſuffer any further pro<g ref="char:EOLhyphen"/>ceedings againſt the Captain, in prejudice to his Commiſſion. I doubt not, but Sir <hi>Arthur Haſlerig</hi> will for the future, ſo provide for the protection, and indempnity of honeſt men, as not upon the underhand Information, or other falſe ſuggeſtion of their adver<g ref="char:EOLhyphen"/>ſaries, though Committee-men, diſplace, or diſcountenance friends: As for the Lieutenant General, though a ſtranger to us, he hath done more for us, then all that ſit in Parliament, for our poor Countrey; not long ſince, he ſent 100 l. to the poor of <hi>Weſtmerland,</hi> by the hand of Captain <hi>Crakanthorp,</hi> and hath been ready to give us his aſſiſtance for freeing us of the preſſures we ſtill lie under, for not coming to the Common-prayer Book, upon the penalties of the Statute made 35. <hi>Eliz.</hi> yet unrepealed; while the Lord <hi>Howard,</hi> (Mr. <hi>Howards</hi> father in law, having lately married his daughter to him) Burgeſs of <hi>Carlile,</hi> and others, as have the honor to ſit in Parliament for <hi>Cumberland,</hi> are regardleſs of our ſufferings; and to this day, never procured relief, or reparation for any of us that ſuffered there, under the enemy, for the Parliaments Cauſe; ſo as unleſs the Lieutenant General, the Speaker, or ſome other gallant man of the Houſe, Commiſſerate our ſufferings, and preſent our condition to the Parliament, I am without hopes, ever to get acceſs unto Juſtice, either for my ſelf, or my ſuffering-friends; for whom, I have here attended at the Parliament door, more then two yeers; yet be not diſcouraged, nor caſt down. I hope, though our own Countrey<g ref="char:EOLhyphen"/>men neglect us, ſtrangers will pity us.</p>
+            <closer>
+               <salute>Farewel,</salute> 
+               <signed>John Muſgrave.</signed>
+               <dateline>London, <date>15. ſixth moneth, called <hi>June.</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:165205:5"/>
+            <!-- PDF PAGE 113 -->
+            <p>
+               <figure>
+                  <figDesc>portrait of Charles I</figDesc>
+               </figure>
+            </p>
+            <pb n="8" facs="tcp:165205:6"/>
+            <!-- PDF PAGE 114 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165205:6"/>
+            <!-- PDF PAGE 114 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
